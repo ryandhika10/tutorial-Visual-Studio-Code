@@ -1,0 +1,130 @@
+ >> SHORTCUT YG HARUS DIHAFALKAN <<
+
+
+ >> SEMUA SHORTCUT YG ADA DI VISUAL STUDIO CODE <<
+
+    1. Kunjungi https://code.visualstudio.com/
+
+    2. Klik Docs yang berada di navbar
+
+    3. Klik Dropdown menu Configure yg ada di sidebar
+
+    4. Klik menu Keyboard shortcuts
+
+    5. Scroll ke Bawah sampai ketemu Heading "Keyboard Shortcuts reference"
+
+    6. Klik tulisan link untuk OS yg digunakan(Saya Windows)
+
+ >> Alasan perlu menghafal shortcut: Agar bisa mempersingkat Waktu coding, 
+    karena mengurangi penggunaan mouse.
+
+
+ >> CARA MEMBUKA FOLDER DI VISUAL STUDIO CODE SHORTCUT << 
+
+
+ >> Bisa dgn buka folder project, lalu klik kanan, Show more options, klik  
+    open with code dgn icon Visual Studio Code.
+
+ >> Bisa dgn buka Visual Studio Code, di navbarnya klik file, klik open 
+    folder.., pilih folder yg akan digunakan buat ngoding.
+
+ >> Atau gunakan terminal : 
+      
+    1. Buka terminal(command promt/git bash/windows powershell), kemudian 
+       arahkan folder yg akan dibuka(dgn menggunakan cd ...(isi lokasi   
+       folder), kalua tidak tahu lokasinya gunakan ls, maka akan muncul daftar 
+       folder yg ada)
+
+    2. Tips mengarahkan folder lewat terminal: Klo ada nama folder dgn 2 atau 
+       lebih kata, kita bisa ketikkan 1 kata lalu tekan tab, maka otomatis 
+       akan diisi di terminal kata ke 2 sampai ke 3 nya. ("\" pada terminal 
+       adalah tanda sambung jika terdapat nama folder dgn 2 atau lebih kata)
+
+    3. Jika terminal sudah di arahkan ke folder yg ingin dibuka, selanjutnya 
+       ketik "code ." lalu tekan enter, maka otomatis Visual Studio Code akan 
+       terbuka dgn folder yg dituju
+
+
+ >> PENGGUNAAN GENERAL SHORTKEY << 
+
+
+    1. Shortcut Command Palette : Ctrl + Shift + P
+       - Untuk melihat semua perintah di Visual Studio Code yg bisa diakses, 
+	 melalui command palette(artisan/emmet)
+
+    2. Shortcut Quick Open : Ctrl + P
+       - Untuk membuka sesuatu dgn sangat cepat: file, symbol, method, baris, 
+	 dll
+
+    3. Open Settings : Ctrl + ,
+       - Untuk membuka pengaturan
+
+    4. Keyboard Shortcuts : Ctrl + K,S
+        - Untuk menampilkan semua keyboard shortcut yg kita butuhkan
+
+    5. Open terminal : Ctrl + `
+       - Untuk membuka terminal di dalam Visual Studio Code
+
+
+ >> BASIC EDITING <<
+
+
+    1. Shortcut pindah ke awal baris syntax : Home
+
+    2. Shortcut pindah ke akhir baris syntax : End
+
+    3. Shortcut menambah baris baru ke bawah ketika kursor berada di tengah 
+       syntax : Ctrl + Enter
+
+    4. Shortcut menambah baris baru ke atas ketika kursor berada di tengah 
+       syntax : Ctrl + Shift + Enter
+
+    5. Shortcut memindahkan baris syntax (bisa lebih dari 1 baris) : Alt + 
+       arrow atas / Alt + arrow bawah
+
+    6. Shortcut menduplikat baris syntax ke bawah (bisa lebih dari 1 baris) : 
+       Shift + Alt + arrow atas/Bawah
+
+    7. Shortcut memotong baris syntax : Ctrl + X
+
+    8. Shortcut menghapus baris syntax : Ctrl + Shift + K
+
+    9. Shortcut memberi indentasi : Tab
+
+    10. Shortcut menghilangkan indentasi : Shift + Tab
+
+    11. Shortcut memberi komentar : Ctrl + /
+
+
+ >> SELECTION <<
+
+
+    1. Shortcut seleksi per baris : Ctrl + L
+
+    2. Shortcut seleksi beberapa keyword sama : Ctrl + D
+
+    3. Shortcut menghilangkan kursor banyak karena seleksi keyword : Esc
+
+    4. Shortcut seleksi semua keyword sama : Ctrl + Shift + L
+
+    5. Shortcut untuk multiple cursor : Alt + click penempatan kursor
+
+
+ >> NAVIGATION << 
+
+
+    1. Shortcut quick open : Ctrl + P, ketik nama file
+
+    2. Shortcut mencari simbol(namespace, nama kelas, method, 
+       property/variable) di satu file yg sudah kita buka : Ctrl + Shift + O, 
+       ketik simbol yg ingin dicari
+
+    3. Shortcut mencari simbol(namespace, nama kelas, method, 
+       property/variable) di semua file project : Ctrl + T, ketik symbol yg 
+       ingin dicari
+
+    4. Shortcut mencari baris di file yg sudah kita buka : Ctrl + G, ketik 
+       nomor barisnya
+
+    5. Shortcut membuka tab yg sudah kita buka beberapa file (Tab 
+       Navigation) : Ctrl + Tab, pilih file mana yg mau dibuka

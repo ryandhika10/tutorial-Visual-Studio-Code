@@ -1,0 +1,109 @@
+ >> KONFIGURASI PHP <<
+
+
+ >> Terdapat Command Palette = Ctrl + Shift + P, semua perintah yg ada di 
+    konfigurasi bisa dilakukan
+
+ >> Cara manual dilakukan dgn klik File > Preferences > Settings(Ctrl + ,)
+
+
+ >> HILANGKAN OPEN EDITORS <<
+
+
+ >> Jika sudah dibuka settingsnya, kita bisa hilangkan open editors, dgn buka 
+    settings, ke kolom pencarian, ketikkan open editor visible, ubah valuenya 
+    dari 9 ke 0
+
+
+ >> HILANGKAN MINIMAP <<
+
+
+ >> Kita juga bisa hilangkan minimap, tinggal ketikkan di kolom pencarian, 
+    minimap, hilangkan centang pada checkbox minimap enabled
+
+
+ >> UBAH FONT <<
+
+
+ >> Kalau mau ubah ukuran, kita bisa ketikkan font size, lalu ubah value dari 
+    font size sesuai keinginan(defaultnya 14)
+
+ >> Apapun yg sudah diubah di settings, akan dibuat otomatis file .json yg 
+    berada di kanan atas dgn icon kertas dan panah
+
+
+ >> UBAH TEMA <<
+
+
+ >> Selanjutnya kita bisa memilih tema, kita bisa menginstall tema, dgn 
+    mengklik logo di paling kiri yg bentuknya kotak-kotak(Extensions)
+
+ >> Contoh tema yg bisa di install : One Dark Pro, Material Theme(Deprecated)
+
+
+ >> UBAH FONT STYLE <<
+
+
+ >> Selanjutnya kita bisa mengubah font default dari kode editor
+
+ >> Kita bisa download font di google font
+
+ >> Contoh font yg bisa diinstall : Source Code Pro, Fira Code
+
+ >> Caranya dgn mengetik font di kolom pencarian settings, lalu di font 
+    family, ketikkan nama font yg mau ditambahkan
+
+ >> Untuk Fira Code, kita harus membuat Boolean true pada font Ligatures di 
+    file .json nya, setelah itu, kita restart kode editor dgn close, lalu 
+    membuka Kembali aplikasi VS Code nya
+
+
+ >> HAFALKAN SHORTCUT KEYBOARD <<
+
+
+ >> Kita juga bisa mengunduh cheatsheet dari keyboard shortcut VS Code melalui 
+    web resmi VS Code, bentuk format file nya .pdf
+
+
+ >> UBAH TERMINAL <<
+
+
+ >> Cara mengakses terminal kita bisa klik view(di navigasi) > terminal. 
+    Secara default, yg muncul adalah terminal powershell. Klo kita terbiasa 
+    menggunakan git, kita bisa terapkan git bash di VS Code.
+
+ >> Caranya kita tekan Ctrl + Shift + P, lalu ketik di kolom pencarian select 
+    default profile, klo kita sudah nginstall git bash, maka akan muncul opsi 
+    git bash
+
+ >> Pilih Git Bash, lalu kita klik tombol + di terminal, posisi di kanan, 
+    untuk membuka terminal baru, dan sekarang git bash sudah diterapkan
+
+ >> Shortcut utk membuka terminal git bash di VS Code = Ctrl + `
+
+
+ >> QUICK OPEN FILE <<
+
+
+ >> Shortcut utk membuka file tertentu di dalam folder yg banyak file nya, 
+    yaitu Ctrl + P, lalu ketikkan nama file yg ingin dicari
+
+
+ >> EXTENSIONS <<
+
+
+ >> PHP Intelephense
+ >> Install PHP Intelephense, kemudian matikan fitur bawaan Visual Studio 
+    Code, agar fitur ini saja yg digunakan
+
+ >> Cara mematikannya, di kolom pencarian Settings, ada PHP > Suggest: Basic, 
+    hapus centangnya
+
+ >> PHP Intellisense for codeigniter
+ >> Membantu kita jika ingin menggunakan framework CodeIgniter
+
+ >> Laravel Blade Snippets
+ >> Membantu kita jika ingin menggunakan framework Laravel
+
+ >> Bootstrap 5 Quick Snippets
+ >> Membantu kita jika ingin menggunakan framework Bootstrap 5

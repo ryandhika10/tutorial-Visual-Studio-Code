@@ -1,0 +1,63 @@
+ >> 3 EXTENSION VISUAL STUDIO CODE <<
+
+
+ >> Theme : Install extension mayukai theme
+
+ >> Font : Install font dgn nama Hack, Linknya : 
+	   https://sourcefoundry.org/hack/. Di Visual Studio Code, tekan Ctrl 
+	   + , maka akan muncul settings, kursor berada di kolom pencarian, 
+	   ketik font, tambahkan "Hack" di font family nya
+
+ >> Kursor ngeblink keren : Di Visual Studio Code, tekan Ctrl + , maka akan 
+			    muncul settings, kursor berada di kolom pencarian,
+			    ketikan cursor blinking, ubah defaultnya yg 
+			    awalnya blink, jadi expand
+
+
+ >> EKSTENSI YG DIPAKAI <<
+
+
+    1. Live Preview : Digunakan mirip seperti live server, bedanya web browser 
+		      berjalan bersebelahan dgn visual studio code. Bahkan 
+		      sebelum di save, di web browser berubah otomatis sesuai 
+		      dgn apa yg kita ubah di kodingan.
+
+    2. Peacock : Ekstensi utk mengubah warna dari workspace kita, digunakan 
+		 utk membedakan antara satu workspace dgn workspace lain
+		 => Utk menggunakannya, kita bisa ke command palette (Ctrl + 
+		    Shift + P), lalu ketik peacock, kita bisa atur warnanya
+
+		 => Utk mengembalikan warna seperti semula, ke command 
+		    palette, lalu ketik Peacock: Remove All Global and 
+		    Workspace Colors, lalu pilih opsi itu, maka semua Kembali 
+		    ke keadaan awal.
+
+    3. Quokka.js : Kalau sering membuat project dgn javascript/node.js, 
+		   digunakan untuk mempermudah dgn menjalankan javascript 
+		   maupun typescript dgn feedback yg instan. Jadi utk melihat 
+		   hasilnya, gk perlu menjalankan aplikasinya ke dlm node. Apa 
+		   yg kita butuhin tampil di halamannya langsung, nilainya 
+		   langsung di update sesuai dgn apa yg kita tuliskan di baris 
+		   kode kita
+		   => Syaratnya Visual Studio Code minimal versi 1.10.0
+		   => Quokka berjalan menggunakan Node.js(harus install 
+		      node.js dulu)
+		   => Klo blm install node.js, ke websitenya nodejs.org, 
+		      download, lalu install
+
+		   => Penerapannya : 
+
+		      1. Ketika kita buka project javascript lalu, ketika 
+			 dijalankan, ketika kita mau lihat hasilnya, perlu 
+			 html, supaya js bisa dijalankan di web browser.
+
+		      2. Ketika kita gk mau pakai html, kita gunakan node.js, 
+			 sehingga, kita gk butuh browser lagi, tapi kita harus 
+			 jalanin file javascript lewat node.js. Caranya buka 
+			 terminal, ketik node "nama file(boleh pakai ekstensi 
+			 boleh tidak)". Maka file akan berjalan.
+
+		      3. Dgn menggunakan quokka, kita cukup membuka command 
+			 palette(Ctrl + Shift + P), lalu ketik quokka, pilih 
+			 yg start on current file, maka hasilnya akan tampil 
+			 di syntax kita

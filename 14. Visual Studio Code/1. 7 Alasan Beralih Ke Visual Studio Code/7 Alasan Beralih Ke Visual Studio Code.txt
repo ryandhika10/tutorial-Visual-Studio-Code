@@ -1,0 +1,23 @@
+Kelebihan menggunakan VS Code : 
+
+1. Karena Visual Studio Code Gratis
+
+2. Di dalam VS Code sudah terinstall plugin Emmet
+
+3. Di dalam VS Code sudah terinstall Linter(Fungsi utk cek codingan benar atau 
+   tidak)
+
+4. Ada juga Intellisense(Autocomplete)/klo ngetik sesuatu, nanti dikasih tau 
+   sarannya apa yg mau kita ketikkan
+
+5. Kemudahan bekerja dgn warna
+
+6. Sidebar yg kaya akan fitur
+
+7. Mudah mengelola Extensions/Plugin
+
+8. Terintegrasi dgn Git
+
+Kekurangannya : 
+
+1. Dari sisi kecepatan, Sublime text lebih cepat

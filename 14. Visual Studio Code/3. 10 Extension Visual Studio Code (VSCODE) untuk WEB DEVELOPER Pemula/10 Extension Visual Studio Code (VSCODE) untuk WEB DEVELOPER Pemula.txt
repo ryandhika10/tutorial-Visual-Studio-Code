@@ -1,0 +1,43 @@
+1. Sublime Text Keymap = Untuk membawa shortcut Sublime Text ke dalam Visual 
+			 Studio Code
+
+2. Open in Browser = Untuk menampilkan hasil koding kita ke browser dgn klik 
+		     kanan, lalu pilih open in browser
+
+3. Live Server = Tidak hanya menampilkan hasil kodingan di browser dgn mudah, 
+		 tapi, klo kita melakukan edit, website tidak perlu di refresh
+
+4. Auto Rename Tag = Membantu Ketika kita ingin merubah tag, cukup ganti tag 
+		     pembuka, otomatis tag penutup akan berubah mengikuti tag 
+		     pembuka
+
+5. Intellisense for CSS Class Name = Digunakan Ketika kita tidak hafal kelas 
+				     yg sudah dibuat di framework front-end yg 
+				     kita gunakan(Misal: Bootstrap).
+
+6. CSS Peek = Kita mengintip elemen yg sudah kita buat, terkenal CSS apa. Cara 
+	      menggunakannya, kita tekan ctrl, kemudian klik class style CSS 
+	      yg kita mau lihat cssnya, maka akan otomatis terbuka tab baru yg 
+	      memunculkan style apa saja yg mempengaruhi elemen HTML kita
+
+7. Indent Rainbow = Sangat membantu ketika membuat HTML yg di dlm nya banyak 
+		    tag div, dan kita ingin mengetahui div mana sebagai div 
+		    tutup (Indentasi berwarna)
+
+8. Bracket Pair Colorizer = Membuat kurung kurawal({}) berwarna, untuk 
+			    memudahkan mengetahui kurung kurawal buka dan 
+			    tutup (UDAH ADA DI VISUAL STUDIO CODE/GK USAH 
+			    INSTALL LAGI)
+
+9. Beautify = (UDAH DEPRECATED)
+
+10. Prettier - Code Formatter = Sama seperti beautify, digunakan untuk 
+				merapikan secara otomatis indentasi kodingan 
+				kita jika kodingan kita berantakan 
+				indentasinya Ketika setelah di save (Harus 
+				checklist format on save di Settings)
+
+11. PHP Intellisense = Ketika kita ngetik sesuatu, keluar auto complete nya
+
+12. One Dark Pro = Tema populer untuk tampilan yg paling banyak digunakan di 
+		   VS Code

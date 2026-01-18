@@ -1,0 +1,216 @@
+>> SHORTCUT YG WAJIB DI HAFAL DI VISUAL STUDIO CODE <<
+
+
+ >> General Shortkey : 
+
+    1. Shortcut Command Palette : Ctrl + Shift + P
+       Fungsi => Melihat semua perintah di Visual Studio Code yg bisa di akses 
+		 (Contoh : artisan atau emmet)
+
+    2. Shortcut Quick Open : Ctrl + P
+       Fungsi => Membuka sesuatu dgn sangat cepat: file, symbol, method, 
+		 baris, dll
+
+    3. Open Settings : Ctrl + ,
+       Fungsi => Membuka pengaturan
+
+    4. Keyboard Shortcuts : Ctrl + K,S
+       Fungsi => Menampilkan semua keyboard shortcut yg kita butuhkan
+
+    5. Open terminal : Ctrl + `
+       Fungsi => Membuka terminal di dalam Visual Studio Code
+
+ >> Basic Editing : 
+
+    1. Shortcut pindah ke awal baris syntax : Home
+
+    2. Shortcut pindah ke akhir baris syntax : End
+
+    3. Shortcut menambah baris baru ke bawah ketika kursor berada di tengah 
+       syntax : Ctrl + Enter
+
+    4. Shortcut menambah baris baru ke atas ketika kursor berada di tengah 
+       syntax : Ctrl + Shift + Enter
+
+    5. Shortcut memindahkan baris syntax (bisa lebih dari 1 baris) : Alt + 
+       arrow atas / Alt + arrow bawah
+
+    6. Shortcut menduplikat baris syntax ke bawah (bisa lebih dari 1 baris) : 
+       Shift + Alt + arrow atas/Bawah
+
+    7. Shortcut memotong baris syntax : Ctrl + X
+
+    8. Shortcut menghapus baris syntax : Ctrl + Shift + K
+
+    9. Shortcut memberi indentasi : Tab
+
+    10. Shortcut mengurangi indentasi : Shift + Tab
+
+    11. Shortcut memberi komentar : Ctrl + /
+
+ >> Selection :
+
+    1. Shortcut seleksi per baris : Ctrl + L
+
+    2. Shortcut seleksi beberapa keyword sama : Ctrl + D
+
+    3. Shortcut menghilangkan kursor banyak karena seleksi keyword : Esc
+
+    4. Shortcut seleksi semua keyword sama : Ctrl + Shift + L
+
+    5. Shortcut untuk multiple cursor : Alt + click penempatan kursor
+
+ >> Navigation : 
+
+    1. Shortcut quick open : Ctrl + P, ketik nama file
+
+    2. Shortcut mencari simbol(namespace, nama kelas, method, 
+       property/variable) di satu file yg sudah kita buka : Ctrl + Shift + O, 
+       ketik simbol yg ingin dicari
+
+    3. Shortcut mencari simbol(namespace, nama kelas, method, 
+       property/variable) di semua file project : Ctrl + T, ketik symbol yg 
+       ingin dicari
+
+    4. Shortcut mencari baris di file yg sudah kita buka : Ctrl + G, ketik 
+       nomor barisnya
+
+    5. Shortcut membuka tab yg sudah kita buka beberapa file (Tab 
+       Navigation) : Ctrl + Tab, masih ditekan Tabnya sambil pilih file mana 
+       yg mau dibuka
+
+
+ >> EKSTENSI VISUAL STUDIO CODE << 
+
+
+ >> PHP Intelephense : Membantu dlm koding dgn PHP
+
+    => Penerapannya -> Matikan fitur bawaan Visual Studio Code
+
+    => Caranya -> Di Settings, ketik PHP > Suggest: Basic, hilangkan tanda 
+		  centangnya
+
+ >> PHP Intellisense for codeigniter : Membantu dlm koding dgn framework PHP 
+				       CodeIgniter
+
+ >> Laravel Blade Snippets : Membantu dlm koding dgn framework PHP Laravel
+
+ >> Bootstrap 5 Quick Snippets : Membantu dlm koding dgn framework CSS 
+				 Bootstrap 5
+
+ >> Sublime Text Keymap : Membawa shortcut Sublime Text ke Visual Studio Code
+			  (Gk usah diinstall klo sdh hafal shortcut Visual 
+			  Studio Code)
+
+ >> Open in Browser : Membantu menampilkan hasil koding di browser dgn klik 
+		      kanan di Visual Studio Code, lalu pilih open in browser
+
+ >> Live Server : Membantu menampilkan hasil kodingan dan website tidak 
+		  membutuhkan refresh ketika kita melakukan edit, auto berubah
+
+ >> Auto Rename Tag : Membantu secara otomatis merubah tag penutup ketika kita 
+		      merubah tag pembuka
+
+ >> Intellisense for CSS Class Name : Membantu memberi opsi kelas CSS yg 
+				      tersedia di framework CSS(Misal: 
+				      Bootstrap).
+
+ >> CSS Peek : Digunakan utk mengetahui hubungan HTML dan CSS, ketika kita 
+	       mengklik elemen atau class di HTML, maka secara otomatis akan 
+	       membuka file CSS beserta deklarasi dari CSS nya
+
+    => Penerapannya -> Di file HTML, arahkan kursor ke class maupun id, tekan 
+		       Alt + Klik nama class maupun nama id yg ingin diketahui 
+		       tempat class maupun id itu dibuat
+
+ >> Indent Rainbow : Memberi warna pada indentasi yg memudahkan kita mencari 
+		     tag buka dan tutup suatu elemen HTML
+
+ >> Prettier - Code Formatter : Membantu format ulang indentasi kodingan jika 
+				kodingan berantakan setelah melakukan save
+
+    => Penerapannya -> Set Prettier sebagai default formatter
+
+    => Caranya (1) -> Di Settings, ketik Editor: Default Formatter, di 
+		      dropdownnya pilih Prettier - Code Formatter.
+
+    => Caranya (2) -> Di Settings, ketik Editor: Format On Save, checklist 
+		      checkbox nya
+
+    => Caranya (3) -> Di Settings, ketik Prettier: Use Tabs, checklist 
+		      checkbox nya
+
+ >> PHP Intellisense : Membantu dlm koding dgn PHP ketika ngetik sesuatu, 
+		       keluar auto complete nya
+
+ >> Live Preview : Mirip live server, bedanya web browser berjalan 
+		   bersebelahan dgn kodingan
+
+ >> Peacock : Digunakan utk membedakan antara satu workspace dgn workspace 
+	      lain dgn warna berbeda tiap workspace.
+
+    => Penerapannya -> Ke Command Palette, ketik peacock, pilih yg ada tulisan  
+		       "Change to a Favorite Color", kita bisa pilih opsi 
+		       warna yang tersedia.
+
+    => Penerapannya -> Jika ingin kembali ke warna default, kita ketikan di 
+		       Command Palette "peacock", pilih opsi "Remove All 
+		       Global and Workspace Colors"
+
+ >> Quokka.js : Memberi feedback instan pada file JavaScript tanpa perlu 
+		mengintegrasikannya ke HTML maupun menjalankannya menggunakan 
+		Node.js di terminal. Nilai otomatis terupdate dan tampil di 
+		syntax sesuai dgn apa yg kita tuliskan di baris kode.
+
+    => Penerapannya -> Syarat menginstallnya, Visual Studio Code yg diinstall, 
+		       haruslah minimal versi 1.10.0, harus menginstall 
+		       Node.js terlebih dahulu
+
+    => Caranya -> Buka Command Palette, ketik quokka, pilih opsi "Start On 
+		  Current File", maka secara otomatis hasil JavaScript akan 
+		  muncul di syntax kita dan akan selalu update apabila terjadi 
+		  perubahan
+
+
+ >> EKSTENSI THEME DAN MERUBAH FONT DI VISUAL STUDIO CODE << 
+
+
+ >> Ekstensi Theme : 
+
+    1. One Dark Pro
+
+    2. Mayukai Theme
+
+ >> Font Rekomendasi : 
+
+    1. Hack : Source => (https://sourcefoundry.org/hack/)
+
+    2. Source Code Pro : Source => (Google Fonts)
+
+    3. Fira Code : Source => (Google Fonts)
+
+ >> Cara merubah Font : 
+
+    1. Di pencarian Settings, ketik font
+
+    2. Pada bagian Editor : Font Family, tambahkan naman font yg sudah di 
+			    download dan diinstall (Contoh : 'Hack', 'Source 
+			    Code Pro', 'Fira Code', Consolas, 'Courier New', 
+			    monospace)
+
+    3. Paling kiri adalah font yg akan digunakan terlebih dahulu
+
+    4. Ada yg perlu diubah ketika font Fira Code ingin digunakan, yaitu pada 
+       settings, ketik Font Ligatures
+
+    5. Klik tulisan dgn hyperlink "Edit in settings.json", maka akan muncul 
+       file json
+
+    6. Ubah boolean fontLigatures menjadi true
+
+
+ >> CARA MENGUBAH TERMINAL VISUAL STUDIO CODE << 
+
+
+ >> Ke Command Palette, ketik select default profile, lalu klik opsi itu. 
+    Kemudian pilih terminal yg digunakan (Contoh : Git Bash)
